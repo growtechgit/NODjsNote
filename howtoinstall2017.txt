@@ -1,0 +1,36 @@
+1）https://nodejs.org/en/
+download the latestVersion 6.9         ，ES7支持 必须安装node7及以上版  --harmony  参数 可以开启es7
+
+check node version,and npm version
+
+
+2)change npm install url to tabao mirror
+http://npm.taobao.org/  国内完整镜像
+$ npm install -g cnpm --registry=https://registry.npm.taobao.org
+通过cnpm代替npm
+
+3)关于angular的学习
+http://blog.csdn.net/foruok/article/details/47592155
+http://blog.csdn.net/foruok/article/details/47652389
+http://www.jdon.com/45599
+
+4)mysql express angular node
+
+5)express
+https://npm.taobao.org/package/express
+cnpm install express -g
+details:web discr 
+$ cnpm install -g express-generator
+
+
+6)webstorm
+
+
+7)webstorm开启es6支持
+settings  framework ,ecma6
+
+
+8)nodejs mysql
+
+
+9)nodejs moogodb
